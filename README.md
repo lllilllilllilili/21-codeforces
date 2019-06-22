@@ -5,7 +5,7 @@ Algorithm with King Donburiburi♥
 [![Sccore](https://img.shields.io/badge/15--16-%EB%A0%88%EC%8A%A4%ED%84%B0%EC%9A%B0%EC%8A%B9-blue.svg?logo=facebook)](https://www.lcfc.com/)
 
 
-**돈부리 맛있는 곳!? ** 궁금하다면 <a href = "http://www.hddonburi.com/">Buriburi</a>
+**돈부리 맛있는 곳!?** 궁금하다면 <a href = "http://www.hddonburi.com/">Buriburi</a>
 
 - [소개](#소개)
 - [배경지식](#배경지식)
