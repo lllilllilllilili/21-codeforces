@@ -57,14 +57,14 @@ We solve on the **backjun**
 > - [뱀](./algorithm/구현/b3190_뱀/backjun_3190_뱀.java) | 시뮬레이션 문제, 조건에 따라 구현해주는것이 중요하다.
 > - [2048(easy)](./algorithm/구현/b12100_2048/backjun_2048.java) | 시뮬레이션 이다. 
 > - [이진수 연산](./algorithm/구현/b12813_이진수연산/b12813_이진수연산.java) | 이진수 연산을 할 수 있다. 
-> - [SWEA_모의SW역량테스트_수영장](./algorithm/구현/swea_수영장.java) | DFS로 해결할 수 있는 시뮬레이션 문제
+> - [SWEA_모의SW역량테스트_수영장](./algorithm/구현/SWEA_모의SW역량테스트_수영장/swea_수영장.java) | DFS로 해결할 수 있는 시뮬레이션 문제
 > - [SWEA_모의SW역량테스트_요리사](./algorithm/구현/SWEA_모의SW역량테스트_요리사/SWEA_모의SW역량테스트_요리사.java) | 시뮬레이션 문제이다. 
-> - [SWEA_모의SW역량테스트_특이한자석](./algorithm/구현/SWEA_모의SW역량테스트_특이한자석) | 특이한 자석 문제, 비슷한 문제가 있었던것 같기도 하고
+> - [SWEA_모의SW역량테스트_특이한자석](./algorithm/구현/SWEA_모의SW역량테스트_특이한자석.java) | 특이한 자석 문제, 비슷한 문제가 있었던것 같기도 하고
 
 ##### Graph
 
 ##### Greedy
-> - [전구와스위치](./algorithm/그리디/b2138_전구와스위치/boj_2138.java) | 그리디하게 풀 수 있다.
+> - [전구와스위치](./algorithm/그리디알고리즘/b2138_전구와스위치/boj_2138.java) | 그리디하게 풀 수 있다.
 ##### Dynamic
 
 ##### Dijkstra
@@ -80,7 +80,7 @@ We solve on the **backjun**
 > - [바이러스](./algorithm/DFS/b2606_바이러스/b2606_바이러스.java) | Union-Find문제
 > - [집합의 표현](./algorithm/유니온파인드/b1717_집합의표현/b1717_집합의표현.java) | 유니온 파인드 문제!
 > - [친구네트워크](./algorithm/유니온파인드/b4195_친구네트워크/b4195_친구네트워크.java) | =>Disjoint-Set 알고리즘 (서로소 집합) & 상호베타적 집합
-> - [PGR섬연결하기](./algorithm/유니온파인드/섬연결하기.java) | 프로그래머스에서 Union-Find 문제를 풀었다. 최단비용을 찾을 수 있어야 한다. 
+> - [PGR섬연결하기](./algorithm/유니온파인드/PGR_섬연결하기/섬연결하기.java) | 프로그래머스에서 Union-Find 문제를 풀었다. 최단비용을 찾을 수 있어야 한다. 
 > - [이분그래프](./algorithm/이분그래프/b1707_이분그래프/b1707_이분그래프.java) | 잘모르겠다. 다시풀어보자!!
 
 
