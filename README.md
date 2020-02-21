@@ -70,7 +70,7 @@ We solve on the **backjun**
 ##### Dijkstra
 
 ##### Character 
-> - [명령프롬프트](./algorithm/문자열처리/명령프롬프트_1032.java) | 단순히 문자열의 위치만 맞으면 된다.
+> - [명령프롬프트](./algorithm/문자열처리/명령프롬프트/명령프롬프트_1032.java) | 단순히 문자열의 위치만 맞으면 된다.
 
 
 ##### Brute Force
