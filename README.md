@@ -70,6 +70,8 @@ We solve on the **backjun**
 ##### Dijkstra
 
 ##### Character 
+> - [명령프롬프트](./algorithm/문자열처리/명령프롬프트_1032.java) | 단순히 문자열의 위치만 맞으면 된다.
+
 
 ##### Brute Force
 > - [치킨배달](./algorithm/브루트포스/b15686_치킨배달/boj_15686_치킨배달.java) | 순열과 조합을 사용한 치킨배달 문제
