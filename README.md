@@ -79,6 +79,9 @@ We solve on the **backjun**
 ##### Math
 > - [완전제곱수](./algorithm/수학/완전제곱수/완전제곱수.java) | 최대 범위를 확인하고 제곱수를 찾아서 ArrayList에 넣어보자.
 > - [수이어쓰기1](./algorithm/수학/수이어쓰기1/_1번.java) | 직접 만들려고하지 말고, 길이를 구해서 더해보자1
+> - [A+B - 9](./algorithm/수학/A+B-9/_3번.java) | 굉장히 범위가 커서 BigInteger를 사용해야 했다. 
+
+
 ##### Union-Find
 > - [바이러스](./algorithm/DFS/b2606_바이러스/b2606_바이러스.java) | Union-Find문제
 > - [집합의 표현](./algorithm/유니온파인드/b1717_집합의표현/b1717_집합의표현.java) | 유니온 파인드 문제!
