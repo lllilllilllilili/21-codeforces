@@ -50,7 +50,7 @@ We solve on the **backjun**
 ##### DFS
 > - [소문난칠공주](./algorithm/DFS/b1941_소문난칠공주/b1941_소문난칠공주.java) | DFS 접근으로 해결 할 수 있다.
 > - [에너지 모으기](./algorithm/DFS/에너지모으기/에너지모으기.java) | 배열의 크기를 어떻게 둘까 고민을 많이했는데 -1 씩 감소하여 배열의 크기가 2일때까지 확인해서 해결할 수 있었다.
-
+> - [테트로미노](./algorithm/DFS/테트로미노/_2번.java) | 철 한자 9 모양의 예외처리만 제외하면 DFS로 문제를 해결 할 수 있습니다. 
 
 
 ##### Simulation(구현)
@@ -78,6 +78,7 @@ We solve on the **backjun**
 
 ##### Math
 > - [완전제곱수](./algorithm/수학/완전제곱수/완전제곱수.java) | 최대 범위를 확인하고 제곱수를 찾아서 ArrayList에 넣어보자.
+> - [수이어쓰기1](./algorithm/수학/수이어쓰기1/_1번java) | 직접 만들려고하지 말고, 길이를 구해서 더해보자1
 ##### Union-Find
 > - [바이러스](./algorithm/DFS/b2606_바이러스/b2606_바이러스.java) | Union-Find문제
 > - [집합의 표현](./algorithm/유니온파인드/b1717_집합의표현/b1717_집합의표현.java) | 유니온 파인드 문제!
