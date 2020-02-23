@@ -71,6 +71,8 @@ We solve on the **backjun**
 
 ##### Character 
 > - [명령프롬프트](./algorithm/문자열처리/명령프롬프트/명령프롬프트_1032.java) | 단순히 문자열의 위치만 맞으면 된다.
+> - [알파벳](./algorithm/문자열처리/알파벳/_4.java) | DFS로 해결할 수 있는 문제였다.
+> - [알파벳-ver2](./algorithm/문자열처리/알파벳/_5.java) | 알파벳과 다르게 최적화 시켜서 해결해봤다. 그래봤자 return 여부였지만 ㅠ..
 
 
 ##### Brute Force
@@ -82,6 +84,11 @@ We solve on the **backjun**
 > - [A+B - 9](./algorithm/수학/A+B-9/_3번.java) | 굉장히 범위가 커서 BigInteger를 사용해야 했다. 
 > - [하노이타워](./algorithm/수학/하노이/하노이.java) | 하노이타워는 n 높이를 만들어 줄때 2의 n승 -1 정도를 돈다. 이 문제에서는 20승 이하까지는 출력하지만, 그 이후 부터는 출력하지 않는다. 오로지 몇번 이동했는지 체크한다. stack을 사용한다. 
 
+##### To Point
+> - [수들의합2](./algorithm/투포인터/_7번.java) | 투포인터 형식으로 문제를 해결한다.
+
+##### Stack
+> - [오큰수](./algorithm/스택/_8.java) | 다음 index와 비교 -> index 1 의 값 1은 현재스 index 0 (=2) 보다 값이 작으므로 안된다. 이런식으로 다음 index 의 값 2, 그 다음 index 의 값 1 해당하지 못하고 7 일때 해당되므로 현재스택 은 비어지고 오큰수를 저장하는 배열에 7이 들어가게 된다. 이런식으로 반복하면 해결할 수 있다. 
 
 ##### Union-Find
 > - [바이러스](./algorithm/DFS/b2606_바이러스/b2606_바이러스.java) | Union-Find문제
