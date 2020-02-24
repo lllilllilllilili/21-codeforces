@@ -44,7 +44,7 @@ We solve on the **backjun**
 ##### BFS
 > - [구슬탈출](./algorithm/BFS/b_구슬탈출/구슬탈출.java) | BFS로 해결, 시뮬레이션, 조건이 까다로움
 > - [연구소3](./algorithm/BFS/b17142_연구소3/boj_17142_연구소3.java) | BFS 문제, 문제의 조건을 확인하고 완전탐색
-
+> - [스타트링크](./algorithm/BFS/스타트링크/스타트링크.java) | 문제에서 주어진 조건에 따라 BFS를 돌면서 G 인경우 기저조건을 만들어주면 됩니다.
 
 
 ##### DFS
@@ -71,8 +71,8 @@ We solve on the **backjun**
 
 ##### Character 
 > - [명령프롬프트](./algorithm/문자열처리/명령프롬프트/명령프롬프트_1032.java) | 단순히 문자열의 위치만 맞으면 된다.
-> - [알파벳](./algorithm/문자열처리/알파벳/_4번.java) | DFS로 해결할 수 있는 문제였다.
-> - [알파벳-ver2](./algorithm/문자열처리/알파벳/_5번.java) | 알파벳과 다르게 최적화 시켜서 해결해봤다. 그래봤자 return 여부였지만 ㅠ..
+> - [알파벳](./algorithm/문자열처리/알파벳/_4.java) | DFS로 해결할 수 있는 문제였다.
+> - [알파벳-ver2](./algorithm/문자열처리/알파벳/_5.java) | 알파벳과 다르게 최적화 시켜서 해결해봤다. 그래봤자 return 여부였지만 ㅠ..
 
 
 ##### Brute Force
@@ -88,7 +88,7 @@ We solve on the **backjun**
 > - [수들의합2](./algorithm/투포인터/_7번.java) | 투포인터 형식으로 문제를 해결한다.
 
 ##### Stack
-> - [오큰수](./algorithm/스택/_8번.java) | 다음 index와 비교 -> index 1 의 값 1은 현재스 index 0 (=2) 보다 값이 작으므로 안된다. 이런식으로 다음 index 의 값 2, 그 다음 index 의 값 1 해당하지 못하고 7 일때 해당되므로 현재스택 은 비어지고 오큰수를 저장하는 배열에 7이 들어가게 된다. 이런식으로 반복하면 해결할 수 있다. 
+> - [오큰수](./algorithm/스택/_8.java) | 다음 index와 비교 -> index 1 의 값 1은 현재스 index 0 (=2) 보다 값이 작으므로 안된다. 이런식으로 다음 index 의 값 2, 그 다음 index 의 값 1 해당하지 못하고 7 일때 해당되므로 현재스택 은 비어지고 오큰수를 저장하는 배열에 7이 들어가게 된다. 이런식으로 반복하면 해결할 수 있다. 
 
 ##### Union-Find
 > - [바이러스](./algorithm/DFS/b2606_바이러스/b2606_바이러스.java) | Union-Find문제
