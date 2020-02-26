@@ -62,7 +62,7 @@ We solve on the **backjun**
 > - [SWEA_모의SW역량테스트_수영장](./algorithm/구현/SWEA_모의SW역량테스트_수영장/swea_수영장.java) | DFS로 해결할 수 있는 시뮬레이션 문제
 > - [SWEA_모의SW역량테스트_요리사](./algorithm/구현/SWEA_모의SW역량테스트_요리사/SWEA_모의SW역량테스트_요리사.java) | 시뮬레이션 문제이다. 
 > - [SWEA_모의SW역량테스트_특이한자석](./algorithm/구현/SWEA_모의SW역량테스트_특이한자석.java) | 특이한 자석 문제, 비슷한 문제가 있었던것 같기도 하고
-
+> - [낚시왕](./algorithm/구현/낚시왕/낚시왕.java) | 세월을 낚았다... 방향을 잘 파악해서 풀어야 한다.
 ##### Graph
 
 ##### Greedy
@@ -87,7 +87,7 @@ We solve on the **backjun**
 > - [영수증](./algorithm/수학/영수증/영수증.java) | 산술 문제
 > - [과제안내신분](./algorithm/수학/과제안내신분/과제안내신분.java) | 산술 문제
 > - [맞았는데왜틀려](./algorithm/수학/맞았는데왜틀려/맞았는데왜틀려.java) | 산술 문제
-> - [직사각형탈출](./algorithm/수학/직사각형탈출/직사각형.java) | 가로, 세로 4변 을 다 살펴봐야 한다.
+> - [직사각형탈출](./algorithm/수학/직사각형에서탈출/직사각형.java) | 가로, 세로 4변 을 다 살펴봐야 한다.
 ##### To Point
 > - [수들의합2](./algorithm/투포인터/_7번.java) | 투포인터 형식으로 문제를 해결한다.
 
