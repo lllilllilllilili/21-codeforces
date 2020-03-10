@@ -165,6 +165,7 @@ We solve on the **backjun**
 
 > - [암호만들기](./algorithm/DFS/암호만들기/암호만들기.java) | 조건이 있지만 DFS로 해결할 수 있다.
 
+> - [로또](./algorithm/DFS/로또/로또.java) | DFS
 
 
 
