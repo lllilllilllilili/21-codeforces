@@ -1,0 +1,1 @@
+select i.animal_id, i.name, i.sex_upon_intake from animal_ins i where i.name in ('Lucy', 'Ella', 'Pickle', 'Rogan', 'Sabrina', 'Mitty')
