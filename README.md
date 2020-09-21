@@ -160,7 +160,7 @@ We solve on the **backjun**
 > - [SWEA_모의SW역량테스트_요리사](./algorithm/구현/SWEA_모의SW역량테스트_요리사/SWEA_모의SW역량테스트_요리사.java) | 시뮬레이션 문제이다. 
 > - [SWEA_모의SW역량테스트_특이한자석](./algorithm/구현/SWEA_모의SW역량테스트_특이한자석.java) | 특이한 자석 문제, 비슷한 문제가 있었던것 같기도 하고
 > - [낚시왕](./algorithm/구현/낚시왕/낚시왕.java) | 세월을 낚았다... 방향을 잘 파악해서 풀어야 한다.
-> - [셔틀버스](./algorithm/브루트포스/KAKAO_셔틀버스/KAKAO_셔틀버스.java) | 문자열을 이용한 구현 문제
+> - [셔틀버스](./algorithm/구현/KAKAO_셔틀버스/KAKAO_셔틀버스.java) | 문자열을 이용한 구현 문제
 
 ##### Graph
 
