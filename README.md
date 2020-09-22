@@ -163,7 +163,7 @@ We solve on the **backjun**
 > - [셔틀버스](./algorithm/구현/KAKAO_셔틀버스/KAKAO_셔틀버스.java) | 문자열을 이용한 구현 문제
 
 ##### Graph
-
+> - [줄세우기](./algorithm/정렬/b2252_줄세우기/b2252_줄세우기.java) | 위상정렬 문제중 가장 좋은 표본이 되는 문제였다.
 
 
 
@@ -262,7 +262,7 @@ We solve on the **backjun**
 ##### Sort
 
 
-> - [줄세우기](./algorithm/정렬/b2252_줄세우기/b2252_줄세우기.java) | 위상정렬 문제중 가장 좋은 표본이 되는 문제였다.
+
 
 
 ##### SQL
