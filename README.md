@@ -146,6 +146,7 @@ We solve on the **backjun**
 > - [팀나누기](./algorithm/DFS/팀나누기/팀나누기.java) | 간단한 팀나누기 문제
 > - [암호만들기](./algorithm/DFS/암호만들기/암호만들기.java) | 조건이 있지만 DFS로 해결할 수 있다.
 > - [로또](./algorithm/DFS/로또/로또.java) | DFS
+> - Nqueen | 이 문제를 O(N^2) 안에 풀 수 있습니다.
 
 
 
