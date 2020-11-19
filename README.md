@@ -147,6 +147,7 @@ We solve on the **backjun**
 > - [암호만들기](./algorithm/DFS/암호만들기/암호만들기.java) | 조건이 있지만 DFS로 해결할 수 있다.
 > - [로또](./algorithm/DFS/로또/로또.java) | DFS
 > - Nqueen | 이 문제를 O(N^2) 안에 풀 수 있습니다.
+> - 연산자끼워넣기1,2 | 이 문제는 DFS를 통해 풀 수 있는데요 class를 선언해서 풀어야 했습니다.
 
 
 
