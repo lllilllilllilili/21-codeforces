@@ -278,13 +278,14 @@ We solve on the **backjun**
 ##### SQL
 
 
-> - [보호소에서중성화된동물](./sql/join/보호소에서중성화된동물.sql) | join 문제
-> - [sql_example](./sql/join/sql_%_example.sql) | e.g 
-> - [오랜기간보호한동물](./sql/join/오랜기간보호한동물.sql) | join 문제
-> - [있었는데요없어졌습니다](./sql/join/있었는데요없어졌습니다.sql) | join 문제
-> - [없어진기록찾기](./sql/join/없어진기록찾기.sql) | join 문제
-> - [이름에el들어가는동물찾기](./sql/string,date/이름에el들어가는동물찾기.sql) | string, date 문제
-> - [루시와엘라찾기](./sql/string,date/루시와엘라찾기.sql) | string, date 문제
+> - [보호소에서중성화된동물](./sql/join/보호소에서중성화된동물.sql) | 프로그래머스 | join 문제
+> - [sql_example](./sql/join/sql_%_example.sql) | 프로그래머스 | e.g 
+> - [오랜기간보호한동물](./sql/join/오랜기간보호한동물.sql) | 프로그래머스 | join 문제
+> - [있었는데요없어졌습니다](./sql/join/있었는데요없어졌습니다.sql) | 프로그래머스 | join 문제
+> - [없어진기록찾기](./sql/join/없어진기록찾기.sql) | 프로그래머스 | join 문제
+> - [이름에el들어가는동물찾기](./sql/string,date/이름에el들어가는동물찾기.sql) | 프로그래머스 | string, date 문제
+> - [루시와엘라찾기](./sql/string,date/루시와엘라찾기.sql) | 프로그래머스 | string, date 문제
+> - Revising the Select Query 1 | HackerRank | select 문제
 
 
 
