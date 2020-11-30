@@ -49,7 +49,9 @@ Algorithm with King Donburiburi♥
 
 
 
-이곳은 Mr.King 부리부리 님이 코치해주시는 알고리즘 공부방입니다.
+이곳은 Mr.King 부리부리 님이 코치해주시는 알고리즘 공부방입니다. 
+
+소스트리로 업데이트 테스트중
 
 
 알고리즘은? https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98 
