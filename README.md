@@ -1,10 +1,10 @@
-# algorithmWithDonburi
+# algorithm
 
 
-Algorithm with King Donburiburi♥ 
+Algorithm
 
-
-
+Commit Rule : Type | Name | Platform | Number | Level | Describe
+e.g) Add | 토마토 | BOJ | 1922 | 골드 1 | 
 
 
 [![Algorithm](https://img.shields.io/badge/Algorithm-Kakao%20Talk%20%3A%20%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%A9-Red.svg?logo=baidu)](https://open.kakao.com/o/gK0gr6T)
