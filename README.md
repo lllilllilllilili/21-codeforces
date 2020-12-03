@@ -3,7 +3,9 @@
 
 Algorithm with King Donburiburi♥ 
 
+Type | Name | Platform | Number | Level | Describe
 
+e.g) Add | 욕심쟁이판 | BOJ | 1937 | 골드3 | DFS컨셉에 DP를 함께 사용해야 합니다
 
 
 
