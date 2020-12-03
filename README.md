@@ -1,10 +1,10 @@
-# algorithm
+# algorithmWithDonburi
 
 
-Algorithm
+Algorithm with King Donburiburi♥ 
 
-Commit Rule : Type | Name | Platform | Number | Level | Describe
-e.g) Add | 토마토 | BOJ | 1922 | 골드 1 | 
+
+
 
 
 [![Algorithm](https://img.shields.io/badge/Algorithm-Kakao%20Talk%20%3A%20%EC%9E%90%EB%B0%94%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EB%B0%A9-Red.svg?logo=baidu)](https://open.kakao.com/o/gK0gr6T)
@@ -49,7 +49,9 @@ e.g) Add | 토마토 | BOJ | 1922 | 골드 1 |
 
 
 
-이곳은 Mr.King 부리부리 님이 코치해주시는 알고리즘 공부방입니다.
+이곳은 Mr.King 부리부리 님이 코치해주시는 알고리즘 공부방입니다. 
+
+소스트리로 업데이트 테스트중
 
 
 알고리즘은? https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98 
@@ -183,12 +185,10 @@ We solve on the **backjun**
 > - [잃어버린괄호](./algorithm/그리디알고리즘/잃어버린괄호/잃어버린괄호.java) | 원리만 알면 쉽게 접근할 수 있다.
 > - 행렬 | N과 M 맵의 크기가 주어졌을 때 map 모두를 바라보게 되면  2^NM 의 시간복잡도가 걸립니다. 따라서 한 지점의 좌표가 다르게 되면 3by3을 뒤짚어서 그리디하게 확인해봅니다.
 
-
 ##### Dynamic
 
 
-
-
+> - 욕심쟁이 판다 | DFS문제인데 실제 완전탐색을 수행하면 시간초과가 납니다. 따라서, DP를 활용해 DFS를 써야 합니다. 
 
 ##### Dijkstra
 
