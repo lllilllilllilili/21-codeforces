@@ -1,7 +1,7 @@
-# algorithmWithDonburi
+# algorithm
 
 
-Algorithm with King Donburiburi♥ 
+
 
 Type | Name | Platform | Number | Level | Describe
 
@@ -13,16 +13,6 @@ e.g) Add | 욕심쟁이판 | BOJ | 1937 | 골드3 | DFS컨셉에 DP를 함께 �
 
 
 [![Sccore](https://img.shields.io/badge/15--16-%EB%A0%88%EC%8A%A4%ED%84%B0%EC%9A%B0%EC%8A%B9-blue.svg?logo=facebook)](https://www.lcfc.com/)
-
-
-
-
-
-
-
-
-**Donburi Table of Content** IF YOU LOVE 👉 <a href = "http://www.hddonburi.com/">Buriburi</a>
-
 
 
 
