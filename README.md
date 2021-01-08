@@ -185,7 +185,7 @@ We solve on the **backjun**
 ##### Dynamic
 
 
-> - 욕심쟁이 판다 | DFS문제인데 실제 완전탐색을 수행하면 시간초과가 납니다. 따라서, DP를 활용해 DFS를 써야 합니다. 
+> - [욕심쟁이판다](./algorithm/Dynamic/BOJ_1937_욕심쟁이판다2.java) | DFS문제인데 실제 완전탐색을 수행하면 시간초과가 납니다. 따라서, DP를 활용해 DFS를 써야 합니다. 
 
 ##### Dijkstra
 
