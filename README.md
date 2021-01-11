@@ -254,6 +254,11 @@ We solve on the **backjun**
 > - [PGR섬연결하기](./algorithm/유니온파인드/PGR_섬연결하기/섬연결하기.java) | 프로그래머스에서 Union-Find 문제를 풀었다. 최단비용을 찾을 수 있어야 한다. 
 > - [이분그래프](./algorithm/이분그래프/b1707_이분그래프/b1707_이분그래프.java) | 잘모르겠다. 다시풀어보자!!
 
+##### Deque
+
+
+> - [Deque](./algorithm/디큐/BOJ_10866_Deque.java) | Deque의 기본적인 특징을 모두 사용해볼 수 있는 문제 입니다.
+
 
 
 ##### Division and conquest
@@ -272,6 +277,8 @@ We solve on the **backjun**
 
 
 ##### Sort
+
+
 
 
 
