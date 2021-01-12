@@ -186,6 +186,10 @@ We solve on the **backjun**
 
 
 > - [욕심쟁이판다](./algorithm/Dynamic/BOJ_1937_욕심쟁이판다2.java) | DFS문제인데 실제 완전탐색을 수행하면 시간초과가 납니다. 따라서, DP를 활용해 DFS를 써야 합니다. 
+>
+> - [목장건설하기](./algorithm/Dynamic/BOJ_14925_목장건설하기.java) | O(n^2) 이긴 하지만 장애물 없는 경우, 왼쪽 위 부터 보니까 3면의 minimum +1 
+>
+>   
 
 ##### Dijkstra
 
