@@ -301,7 +301,10 @@ We solve on the **backjun**
 > - [루시와엘라찾기](./sql/string,date/루시와엘라찾기.sql) | 프로그래머스 | string, date 문제
 > - Revising the Select Query 1 | HackerRank | select 문제
 
+##### Implementation
 
+
+> - [quick-sort](./algorithm/구현/quick-sort.py) | List와 Pivot 을 이용해서 quick-sort 구현하기, in-place로 quick-sort 구현하기
 
 
 ##### 참고
