@@ -245,6 +245,7 @@ We solve on the **backjun**
 
 
 > - [오큰수](./algorithm/스택/_8.java) | 다음 index와 비교 -> index 1 의 값 1은 현재스 index 0 (=2) 보다 값이 작으므로 안된다. 이런식으로 다음 index 의 값 2, 그 다음 index 의 값 1 해당하지 못하고 7 일때 해당되므로 현재스택 은 비어지고 오큰수를 저장하는 배열에 7이 들어가게 된다. 이런식으로 반복하면 해결할 수 있다. 
+> - [Valid_Parentheses](./algorithm/스택/Valid_Parentheses.java) | HashMap, Stack 을 이용해서 구현할 수 있습니다. 
 
 
 
