@@ -162,6 +162,7 @@ We solve on the **backjun**
 > - [셔틀버스](./algorithm/구현/KAKAO_셔틀버스/KAKAO_셔틀버스.java) | 문자열을 이용한 구현 문제
 > - [숫자만들기](./algorithm/구현/SWEA_4008_숫자만들기/SWEA_4008_숫자만들기.java) | +, -, *, / number-1 개수에서 최댓값, 최솟값을 갱신합니다. 부호 개수 만큼 돌면서 값을 계산합니다. 백트래킹으로 부호 중 하나를 사용해서 값을 계산하여 계산을 다하고 난후에 사용한 부호를 원상복구 합니다. 
 > - [로봇](./algorithm/구현/BOJ_13901_로봇/BOJ_13901_로봇.java) | 모듈러 연산을 통해서 로봇의 흐름을 제어합니다.
+> - 
 
 ##### Graph
 > - [줄세우기](./algorithm/정렬/b2252_줄세우기/b2252_줄세우기.java) | 위상정렬 문제중 가장 좋은 표본이 되는 문제였다.
@@ -219,7 +220,7 @@ We solve on the **backjun**
 
 
 > - [나는야포켓몬마스터이다솜](./algorithm/해시/BOJ_1620_나는야포켓몬마스터이다솜.java) | 해시를 이용한 문제
-> - [Hash연습문제1](./algorithm/해시/연습문제/hash연습문제.java)
+> - [Hash 연습문제](./algorithm/해시/연습문제/hash연습문제.java) | 해시 연습문제 1
 
 
 ##### Math
@@ -267,6 +268,7 @@ We solve on the **backjun**
 
 
 > - [Deque](./algorithm/디큐/BOJ_10866_Deque.java) | Deque의 기본적인 특징을 모두 사용해볼 수 있는 문제 입니다.
+> - [Deque 연습문제](./algorithm/디큐/연습문제/Deque연습문제.java) | Deque 연습문제 1
 
 
 
