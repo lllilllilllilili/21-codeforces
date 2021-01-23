@@ -305,7 +305,7 @@ We solve on the **backjun**
 > - [없어진기록찾기](./sql/join/없어진기록찾기.sql) | 프로그래머스 | join 문제
 > - [이름에el들어가는동물찾기](./sql/string,date/이름에el들어가는동물찾기.sql) | 프로그래머스 | string, date 문제
 > - [루시와엘라찾기](./sql/string,date/루시와엘라찾기.sql) | 프로그래머스 | string, date 문제
-> - Revising the Select Query 1 | HackerRank | select 문제
+> - [Revising the Select Query 1](./sql/select/Revising the Select Query 1.sql) | HackerRank | select 문제
 
 ##### Implementation
 
