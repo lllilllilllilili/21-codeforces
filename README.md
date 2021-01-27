@@ -269,6 +269,7 @@ We solve on the **backjun**
 
 > - [Deque](./algorithm/디큐/BOJ_10866_Deque.java) | Deque의 기본적인 특징을 모두 사용해볼 수 있는 문제 입니다.
 > - [Deque 연습문제](./algorithm/디큐/연습문제/Deque연습문제.java) | Deque 연습문제 1
+> - [풍선터뜨리기](./algorithm/디큐/풍선터뜨리기/BOJ_2346_풍선터뜨리기_2.java) | Deque를 이용해서 양수인 경우 맨 앞에 있는것을 맨 뒤로 이동시키고 반대로 음수인 경우 맨 뒤에 있는것을 맨 앞으로 이동시킵니다.
 
 
 
