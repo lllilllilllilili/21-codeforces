@@ -178,7 +178,7 @@ We solve on the **backjun**
 >
 > - [목장건설하기](./algorithm/Dynamic/BOJ_14925_목장건설하기.java) | O(n^2) 이긴 하지만 장애물 없는 경우, 왼쪽 위 부터 보니까 3면의 minimum +1 
 >
-> - [평범한배낭](./algorithm/Dynamic/BOJ_12865_평범한배낭.java) | dp[i-1][j-weight] + value : 해당 차례의 물건을 담는 경우, dp[i-1][j] : 해당 차례의 물건을 담지 않은 경우를 살펴보면서 가방에 들어갈 수 있는 크기에 따라서 뽑아낼 수 있는 Value의 MAX를 찾아냅니다.
+> - [평범한배낭](./algorithm/Dynamic/BOJ_12865_평범한배낭.java) | dp[i-1][j-weight] + value : 해당 차례의 물건을 담는 경우, dp[i-1][j] : 해당 차례의 물건을 담지 않은 경우를 살펴보면서 가방에 들어갈 수 있는 크기에 따라서 뽑아낼 수 있는 Value의 MAX를 찾아냅니다. ✏️
 >
 >   
 
