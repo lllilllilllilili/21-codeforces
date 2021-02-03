@@ -239,6 +239,7 @@ We solve on the **backjun**
 > - [Valid_Parentheses](./algorithm/스택/Valid_Parentheses.java) | HashMap, Stack 을 이용해서 구현할 수 있습니다. 
 > - [단어뒤집기](./algorithm/스택/BOJ_9093_단어뒤집기.java) | 공백을 기준으로 단어를 뒤집습니다. 스택을 이용해 구현합니다.
 > - [괄호](./algorithm/스택/BOJ_9012_괄호.java) | Stack을 이용해서 풀수도 있고, 공통변수를 이용해서 접근하여 문제를 해결할 수 있습니다. 
+> - [스택수열](./algorithm/스택/BOJ_1874_스택수열.java) | Stack에 수를 저장합니다. 필요한 수에 따라 (+),(-) 를 Stack에 push, pop 합니다. 입력으로 들어오는 숫자에 모자르면 (+) 합니다. 반면에 숫자가 크면 (-) 합니다. pop 해도 만들 수 없는 수에 대해서는 "NO" 를 출력합니다.
 
 
 
