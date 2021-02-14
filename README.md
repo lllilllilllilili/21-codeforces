@@ -88,14 +88,6 @@ $ git push {remoteAlign} {branch}
 
 
 
-
-
-
-
-
-
-
-
 ## Infomation
 
 
@@ -158,7 +150,8 @@ We solve on the **backjun**
 > - [숫자만들기](./algorithm/구현/SWEA_4008_숫자만들기/SWEA_4008_숫자만들기.java) | +, -, *, / number-1 개수에서 최댓값, 최솟값을 갱신합니다. 부호 개수 만큼 돌면서 값을 계산합니다. 백트래킹으로 부호 중 하나를 사용해서 값을 계산하여 계산을 다하고 난후에 사용한 부호를 원상복구 합니다. 
 > - [로봇](./algorithm/구현/BOJ_13901_로봇/BOJ_13901_로봇.java) | 모듈러 연산을 통해서 로봇의 흐름을 제어합니다.
 > - [Gaaaaaaaaaarden](./algorithm/구현/Gaaaaaaaaaarden/BOJ_Gaaaaaaaaaarden_18809.java) | 모듈러 연산을 통해서 로봇의 흐름을 제어합니다.
-> - [원판 돌리기](./algorithm/구현/원판 돌리기/BOJ_원판돌리기_17822.java) | 구현
+> - [원판 돌리기](./algorithm/구현/원판 돌리기/BOJ_17822_원판돌리기.java) | 구현
+> - [문자열압축](./algorithm/구현/프로그래머스_문자열압축.java) | 문자열 하나, 두개, ... 주어진 문자 길이/2 만큼 잘라서 비교해보면 됩니다.
 
 
 
