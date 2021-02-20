@@ -187,6 +187,8 @@ We solve on the **backjun**
 >
 > - [평범한배낭](./algorithm/Dynamic/BOJ_12865_평범한배낭.java) | dp[i-1][j-weight] + value : 해당 차례의 물건을 담는 경우, dp[i-1][j] : 해당 차례의 물건을 담지 않은 경우를 살펴보면서 가방에 들어갈 수 있는 크기에 따라서 뽑아낼 수 있는 Value의 MAX를 찾아냅니다. ✏️
 >
+> - [LCS](./algorithm/Dynamic/BOJ_9251_LCS.java) | 이전 문자열과 같은지 확인해서 같은 경우 DP에 길이를 담습니다. 그렇지 않은 경우 비교 문자열1 과 비교 문자열2의 길이를 비교해서 DP에 저장합니다.
+>
 >   
 
 ##### Dijkstra
