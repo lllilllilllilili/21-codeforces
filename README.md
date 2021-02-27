@@ -152,7 +152,7 @@ We solve on the **backjun**
 > - [Gaaaaaaaaaarden](./algorithm/구현/Gaaaaaaaaaarden/BOJ_Gaaaaaaaaaarden_18809.java) | 모듈러 연산을 통해서 로봇의 흐름을 제어합니다.
 > - [원판 돌리기](./algorithm/구현/원판 돌리기/BOJ_17822_원판돌리기.java) | 구현
 > - [문자열압축](./algorithm/구현/프로그래머스_문자열압축.java) | 문자열 하나, 두개, ... 주어진 문자 길이/2 만큼 잘라서 비교해보면 됩니다.
-> - 
+> - [추석트래픽](./algorithm/구현/KAKAO_추석트래픽/KAKAO_추석트래픽.java) | 문자열을 파싱해서 1초 간격 범위 안에 숫자들을 카운팅하면 됩니다.
 
 
 
