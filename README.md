@@ -223,6 +223,7 @@ We solve on the **backjun**
 
 > - [나는야포켓몬마스터이다솜](./algorithm/해시/BOJ_1620_나는야포켓몬마스터이다솜.java) | 해시를 이용한 문제
 > - [Hash 연습문제](./algorithm/해시/연습문제/hash연습문제.java) | 해시 연습문제 1
+> - [오픈채팅방](./algorithm/해시/오픈채팅방/오픈채팅방.java) | 
 
 
 
