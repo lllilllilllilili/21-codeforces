@@ -169,6 +169,7 @@ We solve on the **backjun**
 > - [숨바꼭질4](./algorithm/BFS/숨바꼭질4/BOJ_13913_숨바꼭질4.java) | 단순 BFS문제입니다. 역추적을 어떻게 처리해야할지 고민해야 했었던 문제입니다. 
 > - [DFS와BFS](./algorithm/그래프/DFS와BFS.java) | DFS와 BFS의 원론적인 문제
 > - [이모티콘](./algorithm/그래프/BOJ_14226_이모티콘.java) | 큐를 이용해서 풀수 있는 문제였습니다.
+> - [전화번호목록](./algorithm/그래프/프로그래머스_전화번호목록.java) | 트라이를 활용하여, 문자열 처리를 수행해야 하는 문제였습니다.
 
 
 
