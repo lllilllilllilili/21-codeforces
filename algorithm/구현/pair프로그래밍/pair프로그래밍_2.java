@@ -29,7 +29,7 @@ public class pair로그래밍_2 {
 
 			if(hm.get(de.peekFirst())==cnt) {
 				al.add(de.pollFirst());
-				cnt = 0;프
+				cnt = 0;
 				find = false;
 			}
 			if(de.isEmpty()) break;
