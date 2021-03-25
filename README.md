@@ -158,6 +158,7 @@ We solve on the **backjun**
 > - [예산](./algorithm/구현/KAKAO_예산/KAKAO_예산.java) | 투포인트 문제인줄 알았지만, 실제 sort해서 앞에서부터 더해서 목표값이 되는 가장 큰 경우를 구하는 문제 였습니다.
 > - [신규아이디](./algorithm/구현/KAKAO_신규아이디/KAKAO_신규아이디.java) | step1~6 까지 있는데, 해당 내용에 맞춰 구현을 해주면 됩니다. 
 > - [구슬탈출2](./algorithm/구현/구슬탈출2/구슬탈출2.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다.
+> - [2048(EASY)](./algorithm/구현/2048(EASY)/2048_EASY.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다.
 
 
 
