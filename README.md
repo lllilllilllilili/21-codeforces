@@ -159,6 +159,7 @@ We solve on the **backjun**
 > - [신규아이디](./algorithm/구현/KAKAO_신규아이디/KAKAO_신규아이디.java) | step1~6 까지 있는데, 해당 내용에 맞춰 구현을 해주면 됩니다. 
 > - [구슬탈출2](./algorithm/구현/구슬탈출2/구슬탈출2.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다.
 > - [2048(EASY)](./algorithm/구현/2048(EASY)/2048_EASY.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다.
+> - [경사로](./algorithm/구현/경사로/BOJ_14890_경사로.java) | 브루트포스로 문제에 제시된 조건에 따라 경사로를 놓을 수 있는지 혹은 없는지 체크하는 문제입니다. 
 
 
 
@@ -380,3 +381,12 @@ We solve on the **backjun**
 
 
 
+개요 : Spring boot와 Vue.js를 이용한 Web application을 구성하고 web-3-tier를 Google Cloud Platform에서 제공하는 Product 를 활용해 매니지드 인프라를 구축하였습니다. apache-beam을 활용해 Dataflow로 데이터 파이프라인을 구현
+
+담당 역할 : 풀스택 영역에서 Web application, GCP를 활용한 인프라 구축 및 데이터파이프라인 구현을 담당했습니다.
+
+기여도 : 100%
+
+개발 내용 :
+- Front End : 강사, 학생별 검색어에 따른 통계화면 구현
+- Back End : 배치성 데이터 처리와 시각화 화면을 위한 과목별 API 설계 및 구현
