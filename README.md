@@ -294,6 +294,15 @@ We solve on the **backjun**
 
 
 
+##### Binary Search
+
+
+> - [파닭파닭](./algorithm/이분탐색/BOJ_14627_파닭파닭.java) | 파닭의 개수를 기준으로 이분탐색을 통해 해결할 수 있습니다.
+
+
+
+
+
 ##### Division and conquest
 
 
