@@ -134,8 +134,6 @@ We solve on the **backjun**
 > - 
 
 
-
-
 ##### Simulation(구현)
 
 
@@ -263,6 +261,8 @@ We solve on the **backjun**
 
 
 > - [수들의합2](./algorithm/투포인터/_7번.java) | 투포인터 형식으로 문제를 해결한다.
+> - [두용액](./algorithm/투포인터/BOJ_2470_두용액.java) | 정렬한 뒤 투 포인트 알고리즘을 활용하면 해결할 수 있습니다.
+> - 
 
 
 
