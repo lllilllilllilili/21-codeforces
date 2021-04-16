@@ -202,6 +202,7 @@ We solve on the **backjun**
 > - [자두나무](./algorithm/Dynamic/BOJ_2240_자두나무.java) | 현재위치, 다음위치를 top-down 방식으로 코드를 구성해서 memorization을 통해 해결할 수 있습니다.
 > - [동전1](./algorithm/Dynamic/BOJ_2293_동전1.java) | dp를 이용해서 해결할 수 있다. 특히, dp[j] = dp[j] + dp[j-arr[i]] 식에서 arr[i] 선택하는지, 선택하지 않는지 결정해서 점화식을 세웁니다. 
 > - [서울에서경산까지](./algorithm/Dynamic/BOJ_14863_서울에서경산까지.java) | 2차원 dp를 활용하여 해결할 수 있는 문제입니다. 정의를 어떻게 하는지에 따라 문제 접근 방식이 달라지게 됩니다. 
+> - [축구](./algorithm/Dynamic/BOJ_1344_축구.java) | 단순 확률 개념으로 문제를 접근할 수 있으나, Bottom-up 방식/ Top-down으로도 문제를 해결할 수 있습니다.
 
 
 
