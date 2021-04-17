@@ -175,6 +175,7 @@ We solve on the **backjun**
 > - [이모티콘](./algorithm/그래프/BOJ_14226_이모티콘.java) | 큐를 이용해서 풀수 있는 문제였습니다.
 > - [전화번호목록](./algorithm/그래프/프로그래머스_전화번호목록.java) | 트라이를 활용하여, 문자열 처리를 수행해야 하는 문제였습니다.
 > - [전화번호목록-2](./algorithm/그래프/프로그래머스_전화번호목록_2.java) | 정렬 후 이전 문자가 다음 문자에 포함되어있는지 확인해보면 쉽게 해결할 수 있습니다.
+> - [도시분할계획](./algorithm/그래프/BOJ_1647_도시분할계획.java) | MST를 구성하여 크루스칼, 프림 알고리즘을 이용해서 해결할 수 있습니다.
 
 
 
@@ -267,8 +268,6 @@ We solve on the **backjun**
 
 
 
-
-
 ##### Stack
 
 
@@ -282,8 +281,6 @@ We solve on the **backjun**
 
 
 
-
-
 ##### Union-Find
 
 
@@ -293,6 +290,8 @@ We solve on the **backjun**
 > - [PGR섬연결하기](./algorithm/유니온파인드/PGR_섬연결하기/섬연결하기.java) | 프로그래머스에서 Union-Find 문제를 풀었다. 최단비용을 찾을 수 있어야 한다. 
 > - [이분그래프](./algorithm/이분그래프/b1707_이분그래프/b1707_이분그래프.java) | 잘모르겠다. 다시풀어보자!!
 > - [도시분할계획](./algorithm/유니온파인드/도시분할계획/BOJ_1647_도시분할계획.java) | MST를 이용하는 방법으로, 크루스칼 알고리즘으로 쉽게 해결할 수 있습니다.
+
+
 
 ##### Deque
 
@@ -318,10 +317,14 @@ We solve on the **backjun**
 > - [배열합치기](./algorithm/분할정복/BOJ_11728_배열합치기.java) | 임시배열 값을 생성해서 a,b 배열의 작은값을 차례대로 담습니다.  n,m 범위 안에서 값의 대소비교를 수행합니다. j가 m의 범위를 넘어서면 j는 이미 임시배열안에 다 채워진것이기 때문에 대소비교할 필요없이 i번째 데이터를 c 배열에 추가해줍니다. a[i] 번째 값을 임시배열에 넣는것이므로 a[i]<=b[j] 만족시켜야 합니다. 
 > - 가장큰증가부분수열 |  i번째 위치의 값을 매번 갱신합니다. j번째 위치의 숫자가 i번째 위치의 숫자보다 작을 경우 LIS 가 해당됩니다. LIS가 해당되면 i번째 위치의 값을 매번 갱신합니다. 매 LIS마다 최댓값을 확인하기 위해 MAX 변수에 값을 저장합니다.
 
+
+
 ##### Tree
 
 
 > - [트리순회](./algorithm/트리/BOJ_1991_트리순회.java) | 트리 순위(전위, 중위, 후위)
+
+
 
 
 ##### Bipartite graph
@@ -350,10 +353,14 @@ We solve on the **backjun**
 > - [루시와엘라찾기](./sql/string,date/루시와엘라찾기.sql) | 프로그래머스 | string, date 문제
 > - [Revising the Select Query 1](./sql/select/Revising the Select Query 1.sql) | HackerRank | select 문제
 
+
+
 ##### Implementation
 
 
 > - [quick-sort](./algorithm/구현/quick-sort.py) | List와 Pivot 을 이용해서 quick-sort 구현하기, in-place로 quick-sort 구현하기
+
+
 
 
 ##### 참고
@@ -380,10 +387,3 @@ We solve on the **backjun**
 > - BOJ_2775_부녀회장이될테야
 > - BOJ_1874_스택수열 : 메모리초과
 > - BOJ_1406_에디터 : 순서 에러
-
-
-
-##### 풀지 못해 쌓여있는 문제
-
-
-> - 
