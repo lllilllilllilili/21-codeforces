@@ -100,6 +100,7 @@ We solve on the **backjun**
 ## Category
 
 
+
 ##### BFS
 
 
@@ -131,7 +132,8 @@ We solve on the **backjun**
 > - [꽃길](./algorithm/DFS/꽃길/BOJ_14620_꽃길.java) | 입력을 받고 씨앗을 심습니다. 씨앗을 둘 수 있는지 판단하고, 꽃잎을 만개시킵니다. 꽃잎이 만개할 때 맵을 벗어나는지, 다른 꽃잎과 만나는지 확인합니다.
 > - [여행경로](./algorithm/DFS/여행경로/프로그래머스_여행경로.java) | DFS로 브루트포스를 수행하고 ArrayList에 저장한 뒤 sort하여 가장 위에 있는 값을 출력하였습니다.
 > - [계란으로계란치기](./algorithm/DFS/계란으로계란치기/BOJ_16987_계란으로계란치기.java) | 
-> - 
+
+
 
 
 ##### Simulation(구현)
@@ -306,6 +308,7 @@ We solve on the **backjun**
 
 
 > - [파닭파닭](./algorithm/이분탐색/BOJ_14627_파닭파닭.java) | 파닭의 개수를 기준으로 이분탐색을 통해 해결할 수 있습니다.
+> - [기타레슨](./algorithm/이분탐색/BOJ_2343_기타레슨.java) | tape를 기준으로 이분탐색을 통해 문제를 해결할 수 있습니다. 
 
 
 
