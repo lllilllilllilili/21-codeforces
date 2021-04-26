@@ -164,6 +164,7 @@ We solve on the **backjun**
 > - [캐시](./algorithm/구현/경사로/BOJ_14890_경사로.java) | HashMap을 이용해서 구현할 수 있습니다.
 > - [카카오프렌즈컬러링북](./algorithm/구현/KAKAO_카카오프렌즈컬러링북/KAKAO_카카오프렌즈컬러링북.java) | DFS+BFS로 섬구하기 문제 유형입니다. 
 > - [회전 초밥](./algorithm/구현/BOJ_15961_회전초밥/BOJ_15961_회전초밥.java) | deque를 활용해서 문제를 해결할 수 있습니다. 
+> - [피카츄](./algorithm/구현/BOJ_14405_피카츄) | 입력 받은 문자열을 순회하면서 'pi', 'ka', 'chu' 외에 문자가 포함되어 있는지 확인해서 No, Yes를 출력하면 됩니다.  
 
 
 
