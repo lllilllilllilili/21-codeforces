@@ -182,6 +182,7 @@ We solve on the **backjun**
 > - [전화번호목록-2](./algorithm/그래프/프로그래머스_전화번호목록_2.java) | 정렬 후 이전 문자가 다음 문자에 포함되어있는지 확인해보면 쉽게 해결할 수 있습니다.
 > - [도시분할계획](./algorithm/그래프/BOJ_1647_도시분할계획.java) | MST를 구성하여 크루스칼, 프림 알고리즘을 이용해서 해결할 수 있습니다. 
 > - [Symmetric Tree](./algorithm/그래프/LeetCOde_SymmetricTree.java) | 재귀함수를 이용해서 root Node를 기준으로 좌우 대칭인지 확인해야 하는 문제였습니다. 
+> - [Merge Two Binary Trees](./algorithm/그래프/LeetCOde_Merge_Two_Binary_Trees.java) | 왼쪽 트리 기준으로 값이 있으면 오른쪽 트리와 비교해서 값을 더하고 그렇지 않으면 추가해서 Merge (Recursive)
 
 
 
@@ -203,7 +204,7 @@ We solve on the **backjun**
 
 > - [욕심쟁이판다](./algorithm/Dynamic/BOJ_1937_욕심쟁이판다2.java) | DFS문제인데 실제 완전탐색을 수행하면 시간초과가 납니다. 따라서, DP를 활용해 DFS를 써야 합니다. 
 > - [목장건설하기](./algorithm/Dynamic/BOJ_14925_목장건설하기.java) | O(n^2) 이긴 하지만 장애물 없는 경우, 왼쪽 위 부터 보니까 3면의 minimum +1 
-> - [평범한배낭](./algorithm/Dynamic/BOJ_12865_평범한배낭.java) | dp[i-1][j-weight] + value : 해당 차례의 물건을 담는 경우, dp[i-1][j] : 해당 차례의 물건을 담지 않은 경우를 살펴보면서 가방에 들어갈 수 있는 크기에 따라서 뽑아낼 수 있는 Value의 MAX를 찾아냅니다. ✏️
+> - [평범한배낭](./algorithm/Dynamic/BOJ_12865_평범한배낭.java) | dp[i-1][j-weight] + value : 해당 차례의 물건을 담는 경우, dp[i-1][j] : 해당 차례의 물건을 담지 않은 경우를 살펴보면서 가방에 들어갈 수 있는 크기에 따라서 뽑아낼 수 있는 Value의 MAX를 찾아냅니다. 
 > - [LCS](./algorithm/Dynamic/BOJ_9251_LCS.java) | 이전 문자열과 같은지 확인해서 같은 경우 DP에 길이를 담습니다. 그렇지 않은 경우 비교 문자열1 과 비교 문자열2의 길이를 비교해서 DP에 저장합니다.
 > - [내리막길](./algorithm/Dynamic/BOJ_1520_내리막길.java) | 우리가 흔히 알고있는 DFS 방법으로 문제를 해결 할 수 있지만, 범위가 제 시간안에 해결할 수 없도록 구성되어 있습니다. 따라서, DP와 함께 사용해야 했습니다. 
 > - [자두나무](./algorithm/Dynamic/BOJ_2240_자두나무.java) | 현재위치, 다음위치를 top-down 방식으로 코드를 구성해서 memorization을 통해 해결할 수 있습니다.
