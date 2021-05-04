@@ -153,19 +153,20 @@ We solve on the **backjun**
 > - [Gaaaaaaaaaarden](./algorithm/구현/Gaaaaaaaaaarden/BOJ_Gaaaaaaaaaarden_18809.java) | 모듈러 연산을 통해서 로봇의 흐름을 제어합니다.
 > - [원판 돌리기](./algorithm/구현/원판 돌리기/BOJ_17822_원판돌리기.java) | 시뮬레이션 문제
 > - [문자열압축](./algorithm/구현/프로그래머스_문자열압축.java) | 문자열 하나, 두개, ... 주어진 문자 길이/2 만큼 잘라서 비교해보면 됩니다.
-> - [추석트래픽](./algorithm/구현/KAKAO_추석트래픽/KAKAO_추석트래픽.java) | 문자열을 파싱해서 1초 간격 범위 안에 숫자들을 카운팅하면 됩니다.
+> - [추석트래픽](./algorithm/구현/KAKAO_추석트래픽/KAKAO_추석트래픽.java) | 문자열을 파싱해서 1초 간격 범위 안에 숫자들을 카운팅하면 됩니다. 
 > - [프렌즈4블록](./algorithm/구현/프렌즈4블록/프렌즈4블록.java) | 위에서 아래로 떨어지는 구현을 구현하는것이 가장 큰 중요 포인트 였습니다.
-> - [블록이동하기](./algorithm/구현/블록이동하기/블록이동하기.java) | 실제 구현 문제였지만, 시계방향 반시계방향으로 고려해야할 사항이 많았던 문제 였습니다.
-> - [예산](./algorithm/구현/KAKAO_예산/KAKAO_예산.java) | 투포인트 문제인줄 알았지만, 실제 sort해서 앞에서부터 더해서 목표값이 되는 가장 큰 경우를 구하는 문제 였습니다.
+> - [블록이동하기](./algorithm/구현/블록이동하기/블록이동하기.java) | 실제 구현 문제였지만, 시계방향 반시계방향으로 고려해야할 사항이 많았던 문제 였습니다. 
+> - [예산](./algorithm/구현/KAKAO_예산/KAKAO_예산.java) | 투포인트 문제인줄 알았지만, 실제 sort해서 앞에서부터 더해서 목표값이 되는 가장 큰 경우를 구하는 문제 였습니다. 
 > - [신규아이디](./algorithm/구현/KAKAO_신규아이디/KAKAO_신규아이디.java) | step1~6 까지 있는데, 해당 내용에 맞춰 구현을 해주면 됩니다. 
-> - [구슬탈출2](./algorithm/구현/구슬탈출2/구슬탈출2.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다.
-> - [2048(EASY)](./algorithm/구현/2048(EASY)/2048_EASY.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다.
+> - [구슬탈출2](./algorithm/구현/구슬탈출2/구슬탈출2.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다. 
+> - [2048(EASY)](./algorithm/구현/2048(EASY)/2048_EASY.java) | 방향처리, 예외를 잘 처리해서 구현하면 됩니다. 
 > - [경사로](./algorithm/구현/경사로/BOJ_14890_경사로.java) | 브루트포스로 문제에 제시된 조건에 따라 경사로를 놓을 수 있는지 혹은 없는지 체크하는 문제입니다. 
 > - [캐시](./algorithm/구현/경사로/BOJ_14890_경사로.java) | HashMap을 이용해서 구현할 수 있습니다.
 > - [카카오프렌즈컬러링북](./algorithm/구현/KAKAO_카카오프렌즈컬러링북/KAKAO_카카오프렌즈컬러링북.java) | DFS+BFS로 섬구하기 문제 유형입니다. 
 > - [회전 초밥](./algorithm/구현/BOJ_15961_회전초밥/BOJ_15961_회전초밥.java) | deque를 활용해서 문제를 해결할 수 있습니다. 
 > - [피카츄](./algorithm/구현/BOJ_14405_피카츄) | 입력 받은 문자열을 순회하면서 'pi', 'ka', 'chu' 외에 문자가 포함되어 있는지 확인해서 No, Yes를 출력하면 됩니다.  
 > - [크레인인형뽑기게임](./algorithm/구현/프로그래머스_크레인인형뽑기게임) | moves에 담긴 값에 따라 board에 선택하여 stack에 담긴 수와 비교하여 정답을 계산할 수 있습니다. 
+> - [타켓넘버](./algorithm/구현/타켓넘버/타겟넘버.java) | 
 
 
 
@@ -182,7 +183,7 @@ We solve on the **backjun**
 > - [전화번호목록-2](./algorithm/그래프/프로그래머스_전화번호목록_2.java) | 정렬 후 이전 문자가 다음 문자에 포함되어있는지 확인해보면 쉽게 해결할 수 있습니다.
 > - [도시분할계획](./algorithm/그래프/BOJ_1647_도시분할계획.java) | MST를 구성하여 크루스칼, 프림 알고리즘을 이용해서 해결할 수 있습니다. 
 > - [Symmetric Tree](./algorithm/그래프/LeetCOde_SymmetricTree.java) | 재귀함수를 이용해서 root Node를 기준으로 좌우 대칭인지 확인해야 하는 문제였습니다. 
-> - [Merge Two Binary Trees](./algorithm/그래프/LeetCOde_Merge_Two_Binary_Trees.java) | 왼쪽 트리 기준으로 값이 있으면 오른쪽 트리와 비교해서 값을 더하고 그렇지 않으면 추가해서 Merge (Recursive)
+> - [Merge Two Binary Trees](./algorithm/그래프/LeetCode_Merge_Two_Binary_Trees.java) | 왼쪽 트리 기준으로 값이 있으면 오른쪽 트리와 비교해서 값을 더하고 그렇지 않으면 추가해서 Merge (Recursive)
 
 
 
