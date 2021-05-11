@@ -170,6 +170,7 @@ We solve on the **backjun**
 > - [막대기](./algorithm/구현/막대기/BOJ_1094_막대기.java) | 64를 기준으로 32, 16, 8, 4, 2, 1로 더 이상 쪼갤 수 없을 때까지 2로 나눈 다음에 X 숫자를 만듭니다. 더한 숫자의 개수가 문제의 정답이 됩니다. 
 > - [실패율](./algorithm/구현/KAKAO_실패율/KAKAO_실패율.js) | 프로그래머스 | Javascript | 주어진 stages list 값 맞춰 실패율을 구해서 내림차순 정렬 후 실패율이 갖다면 인덱스로 오름차순 정렬합니다. 
 > - [폰켓몬](./algorithm/구현/프로그래머_폰켓몬/폰켓몬.js) | 프로그래머스 | Javascript | 입력으로 주어진 nums에 데이터를 중복으로 체크하지 않고 각각 Unique한 값을 세줍니다. 단, nums.length/2를 넘지 말아야 합니다. 넘을경우, nums.length을 리턴합니다. 
+> - [AC](./algorithm/구현/AC/BOJ_5430_AC.java) | 프로그래머스 | Javascript | 
 
 
 
