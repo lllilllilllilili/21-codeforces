@@ -133,6 +133,7 @@ We solve on the **backjun**
 > - [여행경로](./algorithm/DFS/여행경로/프로그래머스_여행경로.java) | DFS로 브루트포스를 수행하고 ArrayList에 저장한 뒤 sort하여 가장 위에 있는 값을 출력하였습니다.
 > - [계란으로계란치기](./algorithm/DFS/계란으로계란치기/BOJ_16987_계란으로계란치기.java) | 
 > - [N과M(1)](./algorithm/DFS/N과M_1/BOJ_15649_N과M_1.java) | DFS를 이용해서 순열을 구하는 방법으로 문제를 해결할 수 있습니다.
+> - [단체사진찍기](./algorithm/DFS/단체사진찍기/프로그래머스_단체사진찍기.java) | 
 
 
 
