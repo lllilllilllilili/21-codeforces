@@ -173,6 +173,7 @@ We solve on the **backjun**
 > - [폰켓몬](./algorithm/구현/프로그래머_폰켓몬/폰켓몬.js) | 프로그래머스 | Javascript | 입력으로 주어진 nums에 데이터를 중복으로 체크하지 않고 각각 Unique한 값을 세줍니다. 단, nums.length/2를 넘지 말아야 합니다. 넘을경우, nums.length을 리턴합니다. 
 > - [AC](./algorithm/구현/AC/BOJ_5430_AC.java) | 프로그래머스 | Javascript | 
 > - [AC](./algorithm/구현/AC/BOJ_5430_AC.java) | 프로그래머스 | Java | 
+> - [쇼핑몰](./algorithm/쇼핑몰/쇼핑몰.java) | 백준 | Java | 
 
 
 
