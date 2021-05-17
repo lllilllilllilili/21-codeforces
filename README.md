@@ -174,6 +174,7 @@ We solve on the **backjun**
 > - [AC](./algorithm/구현/AC/BOJ_5430_AC.java) | 프로그래머스 | Javascript | 
 > - [AC](./algorithm/구현/AC/BOJ_5430_AC.java) | 프로그래머스 | Java | 
 > - [쇼핑몰](./algorithm/쇼핑몰/쇼핑몰.java) | 백준 | Java | 
+> - [소가길을건너간이유3](./algorithm/소가길을건너간이유3/소가길을건너간이유3.java) | 백준 | Java | 
 
 
 
