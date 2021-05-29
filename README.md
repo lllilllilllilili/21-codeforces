@@ -212,6 +212,7 @@ We solve on the **backjun**
 > - [예산](./algorithm/정렬/SUMMER/WINTER_예산/SUMMER/WINTER_예산.java)  | 단순히 정렬 후 조건에 맞게 구현해주면 됐었습니다.
 > - [아우으우아으이야](./algorithm/그리디알고리즘/아우으우아으이야/BOJ_15922_아우으우아으이야.java)  | 라인 스위핑 문제로 소개가 되어있는데, 그리디 기법으로 접근하여 문제를 해결할 수 있습니다.
 > - [컵라면](./algorithm/그리디알고리즘/컵라면/BOJ_1781_컵라면.java)  | pq 사이즈와 데드라인 순서에 맞춰 push, pop 연산을 수행하면 문제를 해결할 수 있습니다.
+> - [ATM](./algorithm/그리디알고리즘/ATM/BOJ_11399_ATM.java)  | pq 사이즈와 데드라인 순서에 맞춰 push, pop 연산을 수행하면 문제를 해결할 수 있습니다.
 
 
 
