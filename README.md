@@ -113,7 +113,7 @@ We solve on the **backjun**
 
 
 
-##### 🟥 BFS
+##### 🟥  BFS
 
 
 > - [구슬탈출](./algorithm/BFS/b_구슬탈출/구슬탈출.java) | BFS로 해결, 시뮬레이션, 조건이 까다로움
@@ -128,7 +128,7 @@ We solve on the **backjun**
 
 
 
-##### 🟥 DFS
+##### 🟥  DFS
 
 > - [소문난칠공주](./algorithm/DFS/b1941_소문난칠공주/b1941_소문난칠공주.java) | DFS 접근으로 해결 할 수 있다.
 > - [에너지 모으기](./algorithm/DFS/에너지모으기/에너지모으기.java) | 배열의 크기를 어떻게 둘까 고민을 많이했는데 -1 씩 감소하여 배열의 크기가 2일때까지 확인해서 해결할 수 있었다.
@@ -146,11 +146,12 @@ We solve on the **backjun**
 > - [계란으로계란치기](./algorithm/DFS/계란으로계란치기/BOJ_16987_계란으로계란치기.java) | 
 > - [N과M(1)](./algorithm/DFS/N과M_1/BOJ_15649_N과M_1.java) | DFS를 이용해서 순열을 구하는 방법으로 문제를 해결할 수 있습니다.
 > - [단체사진찍기](./algorithm/DFS/단체사진찍기/프로그래머스_단체사진찍기.java) | 
+> - [조합찾기](./algorithm/DFS/조합찾기/조합찾기.java) | 프로그래머스 | Java | 조합 문제인데, 주어진 문제에 조건에 맞춰 결과 값을 리턴해야 하는 부분이 까다로웠습니다. DFS 문제로 수행시간을 고려하면 MAX 130 정도 수행할 수 있습니다.
 
 
 
 
-##### Simulation(구현)
+##### 🟥  Simulation(구현)
 
 
 > - [뱀](./algorithm/구현/b3190_뱀/backjun_3190_뱀.java) | 시뮬레이션 문제, 조건에 따라 구현해주는것이 중요하다.
@@ -197,7 +198,7 @@ We solve on the **backjun**
 
 
 
-##### Graph
+##### 🟧  Graph
 > - [네트워크연결](./algorithm/그래프/BOJ_1922_네트워크연결/BOJ_1922_네트워크연결.java) | 백준 | Java | 프림을 이용해서 구현할 수 있습니다. 크루스칼 알고리즘을 활용하여 해결하였습니다.
 > - [문제집](./algorithm/그래프/문제집/문제집.java) | 문제집
 > - [작업](./algorithm/그래프/작업/작업.java) | 작업
@@ -214,7 +215,7 @@ We solve on the **backjun**
 
 
 
-##### Greedy
+##### 🟧  Greedy
 
 
 > - [전구와스위치](./algorithm/그리디알고리즘/b2138_전구와스위치/boj_2138.java) | 그리디하게 풀 수 있다.
@@ -229,7 +230,7 @@ We solve on the **backjun**
 
 
 
-##### Dynamic
+##### 🟨  Dynamic
 
 
 > - [욕심쟁이판다](./algorithm/Dynamic/BOJ_1937_욕심쟁이판다2.java) | DFS문제인데 실제 완전탐색을 수행하면 시간초과가 납니다. 따라서, DP를 활용해 DFS를 써야 합니다. 
@@ -245,7 +246,7 @@ We solve on the **backjun**
 
 
 
-##### Dijkstra
+##### 🟩  Dijkstra
 
 > - [파티](./algorithm/다익스트라/BOJ_1238_파티.java) | 초기화를 진행하고, M만큼 돌면서 거리 시작점, 끝점, 소요시간을 저장합니다. 목적지 -> 도착지 2번 (한번은 경로만 바꿔서 진행합니다.) 참석하려고 가는 경우(목적지를 제외한 모든 노드가 다익스트라를 사용), 목적지에서 다시 돌아올 경우 다익스트라 알고리즘을 활용 다익스트라 함수를 통해 계산해둔 dist, revdist 배열안에 i번째 학생이 목적지로 갈 때의 시간과 되돌아올 때의 시간을 더하여 최댓값을 갱신합니다. idx에 연결된 노드들을 찾아봅니다. 미리 저장되어있는 다음 위치에서의 도달 시간의 값과 현재 위치의 도달 시간의 값 더하기 다음 노드까지 걸리는데 시간을 더해줍니다. 갱신된 위치와 시간값을 pq에 넣고 다시 연산을 반복수행하게 됩니다.
 > - [거의 최단 거리](./algorithm/다익스트라/BOJ_6718_거의최단거리.java) | 백준 | Java | 
@@ -253,7 +254,7 @@ We solve on the **backjun**
 
 
 
-##### Character 
+##### 🟧  Character 
 
 
 > - [명령프롬프트](./algorithm/문자열처리/명령프롬프트/명령프롬프트_1032.java) | 단순히 문자열의 위치만 맞으면 된다.
@@ -264,7 +265,7 @@ We solve on the **backjun**
 
 
 
-##### Brute Force
+##### 🟧  Brute Force
 
 
 > - [치킨배달](./algorithm/브루트포스/b15686_치킨배달/boj_15686_치킨배달.java) | 순열과 조합을 사용한 치킨배달 문제
