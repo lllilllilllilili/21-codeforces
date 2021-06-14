@@ -275,7 +275,7 @@ We solve on the **backjun**
 
 
 
-##### Hash
+##### 🟧  Hash
 
 
 > - [나는야포켓몬마스터이다솜](./algorithm/해시/BOJ_1620_나는야포켓몬마스터이다솜.java) | 해시를 이용한 문제
@@ -285,7 +285,7 @@ We solve on the **backjun**
 
 
 
-##### Math
+##### 🟩  Math
 
 
 > - [완전제곱수](./algorithm/수학/완전제곱수/완전제곱수.java) | 최대 범위를 확인하고 제곱수를 찾아서 ArrayList에 넣어보자.
@@ -301,16 +301,16 @@ We solve on the **backjun**
 
 
 
-##### To Point
+##### 🟩  Two Point
 
 
 > - [수들의합2](./algorithm/투포인터/_7번.java) | 투포인터 형식으로 문제를 해결한다.
 > - [두용액](./algorithm/투포인터/BOJ_2470_두용액.java) | 정렬한 뒤 투 포인트 알고리즘을 활용하면 해결할 수 있습니다.
-> - 
+> - [보석쇼핑](./algorithm/투포인터/프로그래머스_보석쇼핑/프로그래머스_보석쇼핑.java) | 프로그래머스 | Java |짧은 간격을 구하는것이 가장 핵심적인 부분 O(n)안에 수행해야 했습니다. 
 
 
 
-##### Stack & Queue
+##### 🟩  Stack & Queue
 
 
 > - [오큰수](./algorithm/스택/_8.java) | 다음 index와 비교 -> index 1 의 값 1은 현재스 index 0 (=2) 보다 값이 작으므로 안된다. 이런식으로 다음 index 의 값 2, 그 다음 index 의 값 1 해당하지 못하고 7 일때 해당되므로 현재스택 은 비어지고 오큰수를 저장하는 배열에 7이 들어가게 된다. 이런식으로 반복하면 해결할 수 있다. 
@@ -325,7 +325,7 @@ We solve on the **backjun**
 
 
 
-##### Union-Find
+##### 🟦  Union-Find
 
 
 > - [바이러스](./algorithm/DFS/b2606_바이러스/b2606_바이러스.java) | Union-Find문제
@@ -337,7 +337,7 @@ We solve on the **backjun**
 
 
 
-##### Deque
+##### 🟩  Deque
 
 
 > - [Deque](./algorithm/디큐/BOJ_10866_Deque.java) | Deque의 기본적인 특징을 모두 사용해볼 수 있는 문제 입니다.
@@ -346,17 +346,17 @@ We solve on the **backjun**
 
 
 
-##### Binary Search
+##### 🟩  Binary Search
 
 
 > - [파닭파닭](./algorithm/이분탐색/BOJ_14627_파닭파닭.java) | 파닭의 개수를 기준으로 이분탐색을 통해 해결할 수 있습니다.
-> - [기타레슨](./algorithm/이분탐색/BOJ_2343_기타레슨.java) | tape를 기준으로 이분탐색을 통해 문제를 해결할 수 있습니다. 
+> - [기타레슨](./algorithm/이분탐색/BOJ_2343_기타레슨.java) |  tape를 기준으로 이분탐색을 통해 문제를 해결할 수 있습니다. 
 
 
 
 
 
-##### Division and conquest
+##### 🟪  Division and conquest
 
 
 > - [배열합치기](./algorithm/분할정복/BOJ_11728_배열합치기.java) | 임시배열 값을 생성해서 a,b 배열의 작은값을 차례대로 담습니다.  n,m 범위 안에서 값의 대소비교를 수행합니다. j가 m의 범위를 넘어서면 j는 이미 임시배열안에 다 채워진것이기 때문에 대소비교할 필요없이 i번째 데이터를 c 배열에 추가해줍니다. a[i] 번째 값을 임시배열에 넣는것이므로 a[i]<=b[j] 만족시켜야 합니다. 
@@ -364,7 +364,7 @@ We solve on the **backjun**
 
 
 
-##### Tree
+##### 🟪  Tree
 
 
 > - [트리순회](./algorithm/트리/BOJ_1991_트리순회.java) | 트리 순위(전위, 중위, 후위)
@@ -380,7 +380,7 @@ We solve on the **backjun**
 
 
 
-##### Sort
+##### 🟩  Sort
 
 
 > - [k번째수](./정렬/k번째수/프로그래머스_k번째수.java) | 프로그래머스 | 정렬 | 간단한 구현
@@ -388,7 +388,7 @@ We solve on the **backjun**
 
 
 
-##### SQL
+##### 🟪  SQL
 
 
 > - [보호소에서중성화된동물](./sql/join/보호소에서중성화된동물.sql) | 프로그래머스 | join 문제
@@ -402,7 +402,7 @@ We solve on the **backjun**
 
 
 
-##### 📖자료구조(이론)
+##### 📖  자료구조(이론)
 
 
 > - [quick-sort](./algorithm/구현/quick-sort.py) | List와 Pivot 을 이용해서 quick-sort 구현하기, in-place로 quick-sort 구현하기
@@ -411,7 +411,7 @@ We solve on the **backjun**
 
 
 
-##### 📂참고
+##### 📂  참고
 
 
 > - [비트마스크](./algorithm/참고/[2019_12_19]비트마스크.md) | 잘쓰면 시간단축에 용이할 수 있을 것 같다.
@@ -424,7 +424,7 @@ We solve on the **backjun**
 
 
 
-##### 📌실패 혹은 고생해서 푼것들...
+##### 📌  실패 혹은 고생해서 푼것들...
 
 
 > - BOJ_2346_풍선터뜨리기
@@ -433,7 +433,7 @@ We solve on the **backjun**
 
 
 
-##### 📚앞으로 해결해야 하는 문제 
+##### 📚  앞으로 해결해야 하는 문제 
 
 
 > - BOJ_2775_부녀회장이될테야
