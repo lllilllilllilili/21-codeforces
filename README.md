@@ -1,11 +1,15 @@
-# super-idea-repository
+# 21-codeforces
+
+### 📌 Join 
+
+[Codeforces Round #725 (Div. 3)](https://codeforces.com/contests/1538) : Jun/10/2021 23:35UTC+9
+
 
 
 
 
 Type | Name | Platform | Number | Level | Describe
 
-e.g) Add | 욕심쟁이판 | BOJ | 1937 | 골드3 | DFS컨셉에 DP를 함께 사용해야 합니다
 
 
 
