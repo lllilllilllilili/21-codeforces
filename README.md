@@ -1,4 +1,9 @@
-# super-idea-repository
+# 21-codeforces
+
+### Join 📌
+
+[Codeforces Round #725 (Div. 3)](https://codeforces.com/contests/1538) : Jun/10/2021 23:35UTC+9
+
 
 
 
