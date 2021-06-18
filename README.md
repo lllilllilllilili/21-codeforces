@@ -1,6 +1,10 @@
 # 21-codeforces
 
+<<<<<<< HEAD
 ### 📌 Join 
+=======
+### Join 📌
+>>>>>>> 4ab7506... Update README.md
 
 [Codeforces Round #725 (Div. 3)](https://codeforces.com/contests/1538) : Jun/10/2021 23:35UTC+9
 
