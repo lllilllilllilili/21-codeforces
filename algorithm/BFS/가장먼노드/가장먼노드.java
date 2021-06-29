@@ -7,12 +7,11 @@ class Solution {
     static void BFS(int n, int start){
         Queue<Integer> q = new LinkedList<>();
         q.add(start);
-        dist[1] = 0;
         int max = Integer.MIN_VALUE;
         while(!q.isEmpty()){
             int x = q.poll();
             for(int i=2; i<=n; i++){ 
-                if(map[x][i] == true && dist[i] == 0){
+                if(map[x][i] == true && dist[i] == 0 ){
                     dist[i] = dist[x] + 1;
                     q.add(i);
                     max = Math.max(dist[i], max);
@@ -21,8 +20,7 @@ class Solution {
         }
         for(int i : dist){
             if(i == max){
-                cnt +=1;
-                
+                cnt += 1;
             }
         }//end of for loop
         
