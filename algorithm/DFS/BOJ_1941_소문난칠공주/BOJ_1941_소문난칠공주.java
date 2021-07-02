@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class �ҹ���ĥ����2 {
+public class BOJ_1941_소문난칠공주 {
 
 	static char[][] map;
 	static int[][] cmap;
