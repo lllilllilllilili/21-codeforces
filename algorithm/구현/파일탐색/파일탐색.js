@@ -4,7 +4,6 @@
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
-  console.log("hi");
   const codeOwnersMap = {
     scripts: ["배수진"],
     services: {
