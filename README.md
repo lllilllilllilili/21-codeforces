@@ -191,6 +191,7 @@ We solve on the **backjun**
 > - [서울에서경산까지](./algorithm/Dynamic/BOJ_14863_서울에서경산까지.java) | 2차원 dp를 활용하여 해결할 수 있는 문제입니다. 정의를 어떻게 하는지에 따라 문제 접근 방식이 달라지게 됩니다.
 > - [축구](./algorithm/Dynamic/BOJ_1344_축구.java) | 단순 확률 개념으로 문제를 접근할 수 있으나, Bottom-up 방식/ Top-down으로도 문제를 해결할 수 있습니다.
 > - [성냥개비](./algorithm/Dynamic/BOJ_1344_축구.java) |
+> - [앱](./algorithm/Dynamic/BOJ_7579_앱.py) | DP 문제 중 냅색 이론을 활용하여 해결할 수 있는 문제입니다.
 
 ##### 🟩 Dijkstra
 
